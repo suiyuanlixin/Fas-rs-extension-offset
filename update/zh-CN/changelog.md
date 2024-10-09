@@ -1,5 +1,5 @@
 # v2.5.3.Release
-# Fas-rs-extension-offset
+## Fas-rs-extension-offset
 ## 模块脚本
 - 修复module.prop中已安装选项显示错误
 - 将模块中README.md中的选项改为true
@@ -9,11 +9,11 @@
 - 微调王者荣耀/Honor of Kngs的偏移配置
 - 微调王者荣耀/Honor of Kings的频率限制
 # v2.5.2.Release
-# Fas-rs-extension-offset
+## Fas-rs-extension-offset
 ## 模块脚本
 - 新增Magisk应用程序内更新功能
 # v2.5.1.Pre-release
-# Fas-rs-extension-offset
+## Fas-rs-extension-offset
 ## 模块脚本
 - 在module.prop中显示已安装选项
 - 加强检测是否阅读使用说明
@@ -59,7 +59,7 @@
 - 同步吟惋兮的最新配置
 - 新增测试性功能Schedhorizon
 - 新增测试性功能CPU-Limiter
-# Fas-rs-extension-schedhorizon
+## Fas-rs-extension-schedhorizon
 ## SoC及游戏的适配
 ### 新增适配SoC
 - SM7475
