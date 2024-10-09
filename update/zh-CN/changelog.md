@@ -1,4 +1,4 @@
-# [ v2.5.3 ]
+# v2.5.3.Release
 # Fas-rs-extension-offset
 ## 模块脚本
 - 修复module.prop中已安装选项显示错误
@@ -8,11 +8,11 @@
 ### SM8450/SM8475
 - 微调王者荣耀/Honor of Kngs的偏移配置
 - 微调王者荣耀/Honor of Kings的频率限制
-# [ v2.5.2 ]
+# v2.5.2.Release
 # Fas-rs-extension-offset
 ## 模块脚本
 - 新增Magisk应用程序内更新功能
-# [ v2.5.1 ]
+# v2.5.1.Pre-release
 # Fas-rs-extension-offset
 ## 模块脚本
 - 在module.prop中显示已安装选项
