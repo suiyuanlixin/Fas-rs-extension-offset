@@ -1,4 +1,5 @@
-# v2.5.3
+# [ v2.5.3 ]
+# Fas-rs-extension-offset
 ## 模块脚本
 - 修复module.prop中已安装选项显示错误
 - 将模块中README.md中的选项改为true
@@ -7,10 +8,12 @@
 ### SM8450/SM8475
 - 微调王者荣耀/Honor of Kngs的偏移配置
 - 微调王者荣耀/Honor of Kings的频率限制
-# v2.5.2
+# [ v2.5.2 ]
+# Fas-rs-extension-offset
 ## 模块脚本
 - 新增Magisk应用程序内更新功能
-# v2.5.1
+# [ v2.5.1 ]
+# Fas-rs-extension-offset
 ## 模块脚本
 - 在module.prop中显示已安装选项
 - 加强检测是否阅读使用说明
@@ -20,6 +23,12 @@
 - 新增测试性功能Schedhorizon
 - 新增测试性功能CPU-Limiter
 ## SoC及游戏的适配
+### 新增适配SoC
+- SM8250
+- SM8635
+- MT6895
+- MT6896
+- MT6989
 ### SM7475
 - 同步Qi_Serein的最新配置
 ### SM7675
@@ -50,3 +59,12 @@
 - 同步吟惋兮的最新配置
 - 新增测试性功能Schedhorizon
 - 新增测试性功能CPU-Limiter
+# Fas-rs-extension-schedhorizon
+## SoC及游戏的适配
+### 新增适配SoC
+- SM7475
+- SM7675
+- SM8450/SM8475
+- SM8550
+- MT6895/MT6896
+- MT6983
