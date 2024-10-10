@@ -1,3 +1,16 @@
+# v2.5.4.Release
+## Fas-rs-extension-offset
+## SoC及游戏的适配
+### SM7475
+- O系同步Aestas_Britannia的最新配置
+### SM7675
+- O系同步Aestas_Britannia的最新配置
+### SM8450/8475
+- O系同步Aestas_Britannia的最新配置
+### SM8550
+- O系同步Aestas_Britannia的最新配置
+### SM8650
+- O系同步Aestas_Britannia的最新配置
 # v2.5.3.Release
 ## Fas-rs-extension-offset
 ## 模块脚本
