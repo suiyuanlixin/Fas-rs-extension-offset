@@ -1,5 +1,7 @@
 # v2.5.5.Pre-release
 ## Fas-rs-extension-offset
+## 模块脚本
+- 修复Magisk应用程序内更新功能
 ## SoC及游戏的适配
 ### SM8650
 - 为O系SM8650设备配置应用增强服务配置
