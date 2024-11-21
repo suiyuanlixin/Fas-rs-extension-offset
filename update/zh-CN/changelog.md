@@ -1,3 +1,19 @@
+# v2.5.6.Lite
+## fas-rs-extension-offset
+- 缩小适配范围，目前仅支持：
+  - SM7475
+  - SM8450
+  - SM8475
+## 模块脚本
+- 大幅精简并优化刷入脚本
+- 新增Magisk内Action按钮
+## fas-rs-extension-schedhorizon
+- 缩小适配范围，目前仅支持：
+  - SM7475
+  - SM8450
+  - SM8475
+## fas-rs-extension-limiter
+- 已删除此功能
 # v2.5.5.Pre-release
 ## Fas-rs-extension-offset
 ## 模块脚本
