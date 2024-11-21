@@ -1,3 +1,7 @@
+# v2.5.7.Lite
+## fas-rs-extension-offset
+- 修复Action按钮卡Running的问题
+- 按钮功能为切换设备可用的另外一套配置
 # v2.5.6.Lite
 ## fas-rs-extension-offset
 - 缩小适配范围，目前仅支持：
