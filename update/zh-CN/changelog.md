@@ -1,3 +1,27 @@
+# fas-rs-extension-offset
+- 新增适配soc
+    - SM8550
+## 模块脚本
+- Action按钮新增SM8550的操作
+## SoC及游戏的适配
+- SM7475
+    - 修复配置中的错误 
+- SM8450
+    - 取消Aestas_Britannia的配置
+    - 新增Qi_Serein的配置
+- SM8475
+    - 取消Aestas_Britannia的配置
+    - 新增Qi_Serein的配置
+- SM8550
+    - 新增LinMYL的配置
+# fas-rs-extension-schedhorizon
+- 新增适配soc
+    - SM8550
+## 模块脚本
+- 修改action.sh和service.sh
+## SoC及游戏的适配
+- SM8550
+    - 完善Schedhorizon的配置
 # v2.5.7.Lite
 ## fas-rs-extension-offset
 - 修复Action按钮卡Running的问题
