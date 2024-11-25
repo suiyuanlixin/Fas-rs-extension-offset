@@ -2,7 +2,7 @@
 ## fas-rs-extension-offset
 ### soc及游戏的适配
 - SM7475
-    -同步Qi_serein的最新配置
+    - 同步Qi_serein的最新配置
 # v2.5.8.Lite
 ## fas-rs-extension-offset
 - 新增适配soc
