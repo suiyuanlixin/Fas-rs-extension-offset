@@ -1,6 +1,6 @@
 {
-    "versionCode": 2580,
-    "version": "v2.5.8",
-    "zipUrl": "https://github.com/suiyuanlixin/Fas-rs-extension-offset/releases/download/v2.5.8/fas-rs-e-o_v2.5.8.zip",
+    "versionCode": 2585,
+    "version": "v2.5.8.5",
+    "zipUrl": "https://github.com/suiyuanlixin/Fas-rs-extension-offset/releases/download/v2.5.8.5/fas-rs-extension-offset-v2.5.8.5.zip",
     "changelog": "https://raw.githubusercontent.com/suiyuanlixin/Fas-rs-extension-offset/refs/heads/main/update/zh-CN/changelog.md"
 }
