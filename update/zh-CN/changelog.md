@@ -1,3 +1,7 @@
+# v2.5.9.Lite
+## fas-rs-extension-offset
+### 模块脚本
+- 新增调整 fas-rs 温控选项
 # v2.5.8.5.Lite
 ## fas-rs-extension-offset
 ### soc及游戏的适配
