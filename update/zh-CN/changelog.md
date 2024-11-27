@@ -1,3 +1,8 @@
+# v2.5.9.6.Fix
+## fas-rs-extension-offset
+### SoC及游戏的适配
+- SM8450/75
+    -修复配置中的一处错误
 # v2.5.9.Lite.Fix
 ## fas-rs-extension-offset
 ### 模块脚本
