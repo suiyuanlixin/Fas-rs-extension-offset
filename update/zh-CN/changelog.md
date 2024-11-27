@@ -1,3 +1,8 @@
+# v2.5.9.Lite.Fix
+## fas-rs-extension-offset
+### 模块脚本
+- 修复刷入fas-rs后温控修改恢复
+- Action按钮新增修改fas-rs温控
 # v2.5.9.Lite
 ## fas-rs-extension-offset
 ### 模块脚本
